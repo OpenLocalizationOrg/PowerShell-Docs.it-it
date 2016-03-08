@@ -3,7 +3,7 @@
 ## Summary
  Property | Value 
  -------- | ----- 
- Total Files | 66
+ Total Files | 63
 [ Handoff Failed Files ](#handoff-failed-list)| 1
 [ Handoff Success Files ](#handoff-success-list)| 54
 [ Archive Failed Files ](#archive-failed-list)| 0
@@ -11,12 +11,12 @@
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 11
+[ Ignored Files ](#ignored-list)| 8
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/README.md) | HandedOffFailed | [Details](#8c1262cca40e2a1f72254cf349d163ee2a4bcebe63)
+ [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/README.md) | HandedOffFailed | [Details](#8c1262cca40e2a1f72254cf349d163ee2a4bcebe60)
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
@@ -63,18 +63,18 @@
  [dsc\pullClientConfigID4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/pullClientConfigID4.md) | HandedOffSuccess | [Details](#3714670bd9ded38e54c1f2e3f64658950c6d3f4044)
  [dsc\pullClientConfigNames.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/pullClientConfigNames.md) | HandedOffSuccess | [Details](#42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d9545)
  [dsc\pullServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/pullServer.md) | HandedOffSuccess | [Details](#2668c9aa8c36621eb9797e634354bc7fa285d3b846)
- [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/queryServerNodes.md) | HandedOffSuccess | [Details](#fc1456c57ade6862957e54ee53f18f189785848a49)
- [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/registryResource.md) | HandedOffSuccess | [Details](#44f3bb3bec83fd779c83d0326d55c88ead77cfba50)
- [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/resources.md) | HandedOffSuccess | [Details](#df54abe3d92ffaff2998e9fb3157b42cf83143c251)
- [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/scriptResource.md) | HandedOffSuccess | [Details](#b081337b68091f95498d23fecbc64701866b2cec53)
- [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/secureMOF.md) | HandedOffSuccess | [Details](#14cf6c2005eb756200e7fd065b61e4120d84c02e54)
- [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/secureServer.md) | HandedOffSuccess | [Details](#2290a81a8dbc82b7881d2b6006d70a90578f9a5655)
- [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/serviceResource.md) | HandedOffSuccess | [Details](#ca609ad6055d8053e43e482ed2e57b3db41c354956)
- [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/TOC.md) | HandedOffSuccess | [Details](#66cefb1620ad412d3f4e041561ae1df356fdb1e657)
- [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/troubleshooting.md) | HandedOffSuccess | [Details](#2886767875ee6a9882ca050e34787cfa1fb6410958)
- [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/userResource.md) | HandedOffSuccess | [Details](#e4b793025b00cb3137eddc0e7ec437f03abdf3c459)
- [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/windowsfeatureResource.md) | HandedOffSuccess | [Details](#1484f03d1d80b73e3131095e3363b246929a0a3560)
- [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/windowsProcessResource.md) | HandedOffSuccess | [Details](#47c387c525a58a88f18e61920736a6e0e7f2098d61)
+ [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/queryServerNodes.md) | HandedOffSuccess | [Details](#fc1456c57ade6862957e54ee53f18f189785848a47)
+ [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/registryResource.md) | HandedOffSuccess | [Details](#44f3bb3bec83fd779c83d0326d55c88ead77cfba48)
+ [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/resources.md) | HandedOffSuccess | [Details](#df54abe3d92ffaff2998e9fb3157b42cf83143c249)
+ [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/scriptResource.md) | HandedOffSuccess | [Details](#b081337b68091f95498d23fecbc64701866b2cec50)
+ [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/secureMOF.md) | HandedOffSuccess | [Details](#14cf6c2005eb756200e7fd065b61e4120d84c02e51)
+ [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/secureServer.md) | HandedOffSuccess | [Details](#2290a81a8dbc82b7881d2b6006d70a90578f9a5652)
+ [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/serviceResource.md) | HandedOffSuccess | [Details](#ca609ad6055d8053e43e482ed2e57b3db41c354953)
+ [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/TOC.md) | HandedOffSuccess | [Details](#66cefb1620ad412d3f4e041561ae1df356fdb1e654)
+ [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/troubleshooting.md) | HandedOffSuccess | [Details](#2886767875ee6a9882ca050e34787cfa1fb6410955)
+ [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/userResource.md) | HandedOffSuccess | [Details](#e4b793025b00cb3137eddc0e7ec437f03abdf3c456)
+ [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/windowsfeatureResource.md) | HandedOffSuccess | [Details](#1484f03d1d80b73e3131095e3363b246929a0a3557)
+ [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/windowsProcessResource.md) | HandedOffSuccess | [Details](#47c387c525a58a88f18e61920736a6e0e7f2098d58)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -94,12 +94,9 @@
  [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/.openpublishing.build.mdproj) | Ignored | [Details](#ea7542a1cc208464193da9503160bbb41d54856c2)
  [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/.openpublishing.publish.config.json) | Ignored | [Details](#8d82385b0d2a38e30f607bf841c712f023ee8d853)
  [dsc\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/dsc/docfx.json) | Ignored | [Details](#c0e59ca822ca5bcf841e3a5a8f2f775cc5f8fc1215)
- [dsc\pullServerSMB.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/dsc/pullServerSMB.md) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd8070947)
- [dsc\pushMode.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/dsc/pushMode.md) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd8070948)
- [dsc\retrieveNodeInfo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/dsc/retrieveNodeInfo.md) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd8070952)
- [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/packages.config) | Ignored | [Details](#27554498f63fbe896c2dad68b61f4dde8478ba3162)
- [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f964)
- [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d35865)
+ [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/packages.config) | Ignored | [Details](#27554498f63fbe896c2dad68b61f4dde8478ba3159)
+ [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f961)
+ [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d35862)
 
 ## Item Details
 ##### <a name='4a6be79ee23699c14dbdae55a52db3b096d2cdcc0'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/.gitignore)
@@ -674,31 +671,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='da39a3ee5e6b4b0d3255bfef95601890afd8070947'></a> Source: [dsc\pullServerSMB.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/dsc/pullServerSMB.md)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='da39a3ee5e6b4b0d3255bfef95601890afd8070948'></a> Source: [dsc\pushMode.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/dsc/pushMode.md)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='fc1456c57ade6862957e54ee53f18f189785848a49'></a> Source: [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/queryServerNodes.md)
+##### <a name='fc1456c57ade6862957e54ee53f18f189785848a47'></a> Source: [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/queryServerNodes.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0876ed606a746e274e0eefdb6150ed0d4fa0e8fb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.it-it.xlf)
@@ -710,7 +683,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='44f3bb3bec83fd779c83d0326d55c88ead77cfba50'></a> Source: [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/registryResource.md)
+##### <a name='44f3bb3bec83fd779c83d0326d55c88ead77cfba48'></a> Source: [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/registryResource.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0876ed606a746e274e0eefdb6150ed0d4fa0e8fb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.it-it.xlf)
@@ -722,7 +695,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='df54abe3d92ffaff2998e9fb3157b42cf83143c251'></a> Source: [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/resources.md)
+##### <a name='df54abe3d92ffaff2998e9fb3157b42cf83143c249'></a> Source: [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/resources.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0876ed606a746e274e0eefdb6150ed0d4fa0e8fb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.it-it.xlf)
@@ -734,19 +707,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='da39a3ee5e6b4b0d3255bfef95601890afd8070952'></a> Source: [dsc\retrieveNodeInfo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/dsc/retrieveNodeInfo.md)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b081337b68091f95498d23fecbc64701866b2cec53'></a> Source: [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/scriptResource.md)
+##### <a name='b081337b68091f95498d23fecbc64701866b2cec50'></a> Source: [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/scriptResource.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0876ed606a746e274e0eefdb6150ed0d4fa0e8fb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.it-it.xlf)
@@ -758,7 +719,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='14cf6c2005eb756200e7fd065b61e4120d84c02e54'></a> Source: [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/secureMOF.md)
+##### <a name='14cf6c2005eb756200e7fd065b61e4120d84c02e51'></a> Source: [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/secureMOF.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0876ed606a746e274e0eefdb6150ed0d4fa0e8fb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.it-it.xlf)
@@ -770,7 +731,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2290a81a8dbc82b7881d2b6006d70a90578f9a5655'></a> Source: [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/secureServer.md)
+##### <a name='2290a81a8dbc82b7881d2b6006d70a90578f9a5652'></a> Source: [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/secureServer.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [secureServer.ce207607010d18109152742ba23c923cd3cddba2.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0876ed606a746e274e0eefdb6150ed0d4fa0e8fb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/secureServer.ce207607010d18109152742ba23c923cd3cddba2.it-it.xlf)
@@ -782,7 +743,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ca609ad6055d8053e43e482ed2e57b3db41c354956'></a> Source: [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/serviceResource.md)
+##### <a name='ca609ad6055d8053e43e482ed2e57b3db41c354953'></a> Source: [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/serviceResource.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0876ed606a746e274e0eefdb6150ed0d4fa0e8fb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.it-it.xlf)
@@ -794,72 +755,72 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='66cefb1620ad412d3f4e041561ae1df356fdb1e657'></a> Source: [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/TOC.md)
+##### <a name='66cefb1620ad412d3f4e041561ae1df356fdb1e654'></a> Source: [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/TOC.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/19ab83be93a187a97afe6ff328072622a6b59ff3/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.it-it.xlf)
 * Handoff Datetime: 2016-01-05 07:35:04
 * Handoff Reason: Include
-* Handoff Error: [handoff_transform_failed](#66cefb1620ad412d3f4e041561ae1df356fdb1e657handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#66cefb1620ad412d3f4e041561ae1df356fdb1e654handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2886767875ee6a9882ca050e34787cfa1fb6410958'></a> Source: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/troubleshooting.md)
+##### <a name='2886767875ee6a9882ca050e34787cfa1fb6410955'></a> Source: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/troubleshooting.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/19ab83be93a187a97afe6ff328072622a6b59ff3/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.it-it.xlf)
 * Handoff Datetime: 2016-01-05 07:35:04
 * Handoff Reason: Include
-* Handoff Error: [handoff_transform_failed](#2886767875ee6a9882ca050e34787cfa1fb6410958handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#2886767875ee6a9882ca050e34787cfa1fb6410955handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e4b793025b00cb3137eddc0e7ec437f03abdf3c459'></a> Source: [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/userResource.md)
+##### <a name='e4b793025b00cb3137eddc0e7ec437f03abdf3c456'></a> Source: [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/userResource.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [userResource.5de4fbe03e9e06934442ba451eb0564931863f45.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/19ab83be93a187a97afe6ff328072622a6b59ff3/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/userResource.5de4fbe03e9e06934442ba451eb0564931863f45.it-it.xlf)
 * Handoff Datetime: 2016-01-05 07:35:04
 * Handoff Reason: Include
-* Handoff Error: [handoff_transform_failed](#e4b793025b00cb3137eddc0e7ec437f03abdf3c459handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#e4b793025b00cb3137eddc0e7ec437f03abdf3c456handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1484f03d1d80b73e3131095e3363b246929a0a3560'></a> Source: [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/windowsfeatureResource.md)
+##### <a name='1484f03d1d80b73e3131095e3363b246929a0a3557'></a> Source: [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/windowsfeatureResource.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/19ab83be93a187a97afe6ff328072622a6b59ff3/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.it-it.xlf)
 * Handoff Datetime: 2016-01-05 07:35:04
 * Handoff Reason: Include
-* Handoff Error: [handoff_transform_failed](#1484f03d1d80b73e3131095e3363b246929a0a3560handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#1484f03d1d80b73e3131095e3363b246929a0a3557handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='47c387c525a58a88f18e61920736a6e0e7f2098d61'></a> Source: [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/windowsProcessResource.md)
+##### <a name='47c387c525a58a88f18e61920736a6e0e7f2098d58'></a> Source: [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/accdf18815dbb189bc109a6833487479fe8435eb/dsc/windowsProcessResource.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/19ab83be93a187a97afe6ff328072622a6b59ff3/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.it-it.xlf)
 * Handoff Datetime: 2016-01-05 07:35:04
 * Handoff Reason: Include
-* Handoff Error: [handoff_transform_failed](#47c387c525a58a88f18e61920736a6e0e7f2098d61handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#47c387c525a58a88f18e61920736a6e0e7f2098d58handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='27554498f63fbe896c2dad68b61f4dde8478ba3162'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/packages.config)
+##### <a name='27554498f63fbe896c2dad68b61f4dde8478ba3159'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/packages.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -871,20 +832,20 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8c1262cca40e2a1f72254cf349d163ee2a4bcebe63'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/README.md)
+##### <a name='8c1262cca40e2a1f72254cf349d163ee2a4bcebe60'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/README.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
-* Handoff Error: [handoff_transform_failed](#8c1262cca40e2a1f72254cf349d163ee2a4bcebe63handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#8c1262cca40e2a1f72254cf349d163ee2a4bcebe60handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f964'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/Tools/NuGet/Nuget.Config)
+##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f961'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/Tools/NuGet/Nuget.Config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -896,7 +857,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7469c905e04001f8250137d2da57bbc7bec2d35865'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/Tools/NuGet/nuget.exe)
+##### <a name='7469c905e04001f8250137d2da57bbc7bec2d35862'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5e9eb14ed149213d9a8e67bf7f32f9e4cfdb0e50/Tools/NuGet/nuget.exe)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -934,37 +895,37 @@
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dsc\\packageResource.md transformed failed.","internal_error_retriable":false,"exception_message":"The index is locked. This might be due to a concurrent or crashed process","exception_type":"LibGit2Sharp.LockedFileException","stack_trace":"   at LibGit2Sharp.Core.Ensure.HandleError(Int32 result) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Core\\Ensure.cs:line 160\r\n   at LibGit2Sharp.Repository.UpdatePhysicalIndex() in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 2026\r\n   at LibGit2Sharp.Repository.Stage(IEnumerable`1 paths, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1772\r\n   at LibGit2Sharp.Repository.Stage(String path, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1689\r\n   at LibGit2Sharp.RepositoryExtensions.Stage(IRepository repository, String path) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\RepositoryExtensions.cs:line 674\r\n   at Microsoft.OpenLocalization.Git.GitRepoExtensions.StageFile(GitRepo gitLocal, String filePath) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Git\\GitRepoExtensions.cs:line 368\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 250","extended_information":null}
 
-##### <a name='66cefb1620ad412d3f4e041561ae1df356fdb1e657handoff_transform_failed'></a> Source: [dsc\TOC.md](#66cefb1620ad412d3f4e041561ae1df356fdb1e657)
+##### <a name='66cefb1620ad412d3f4e041561ae1df356fdb1e654handoff_transform_failed'></a> Source: [dsc\TOC.md](#66cefb1620ad412d3f4e041561ae1df356fdb1e654)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: dsc\TOC.md transformed failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dsc\\TOC.md transformed failed.","internal_error_retriable":false,"exception_message":"The index is locked. This might be due to a concurrent or crashed process","exception_type":"LibGit2Sharp.LockedFileException","stack_trace":"   at LibGit2Sharp.Core.Ensure.HandleError(Int32 result) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Core\\Ensure.cs:line 160\r\n   at LibGit2Sharp.Repository.UpdatePhysicalIndex() in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 2026\r\n   at LibGit2Sharp.Repository.Stage(IEnumerable`1 paths, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1772\r\n   at LibGit2Sharp.Repository.Stage(String path, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1689\r\n   at LibGit2Sharp.RepositoryExtensions.Stage(IRepository repository, String path) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\RepositoryExtensions.cs:line 674\r\n   at Microsoft.OpenLocalization.Git.GitRepoExtensions.StageFile(GitRepo gitLocal, String filePath) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Git\\GitRepoExtensions.cs:line 368\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 250","extended_information":null}
 
-##### <a name='2886767875ee6a9882ca050e34787cfa1fb6410958handoff_transform_failed'></a> Source: [dsc\troubleshooting.md](#2886767875ee6a9882ca050e34787cfa1fb6410958)
+##### <a name='2886767875ee6a9882ca050e34787cfa1fb6410955handoff_transform_failed'></a> Source: [dsc\troubleshooting.md](#2886767875ee6a9882ca050e34787cfa1fb6410955)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: dsc\troubleshooting.md transformed failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dsc\\troubleshooting.md transformed failed.","internal_error_retriable":false,"exception_message":"The index is locked. This might be due to a concurrent or crashed process","exception_type":"LibGit2Sharp.LockedFileException","stack_trace":"   at LibGit2Sharp.Core.Ensure.HandleError(Int32 result) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Core\\Ensure.cs:line 160\r\n   at LibGit2Sharp.Repository.UpdatePhysicalIndex() in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 2026\r\n   at LibGit2Sharp.Repository.Stage(IEnumerable`1 paths, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1772\r\n   at LibGit2Sharp.Repository.Stage(String path, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1689\r\n   at LibGit2Sharp.RepositoryExtensions.Stage(IRepository repository, String path) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\RepositoryExtensions.cs:line 674\r\n   at Microsoft.OpenLocalization.Git.GitRepoExtensions.StageFile(GitRepo gitLocal, String filePath) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Git\\GitRepoExtensions.cs:line 368\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 250","extended_information":null}
 
-##### <a name='e4b793025b00cb3137eddc0e7ec437f03abdf3c459handoff_transform_failed'></a> Source: [dsc\userResource.md](#e4b793025b00cb3137eddc0e7ec437f03abdf3c459)
+##### <a name='e4b793025b00cb3137eddc0e7ec437f03abdf3c456handoff_transform_failed'></a> Source: [dsc\userResource.md](#e4b793025b00cb3137eddc0e7ec437f03abdf3c456)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: dsc\userResource.md transformed failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dsc\\userResource.md transformed failed.","internal_error_retriable":false,"exception_message":"The index is locked. This might be due to a concurrent or crashed process","exception_type":"LibGit2Sharp.LockedFileException","stack_trace":"   at LibGit2Sharp.Core.Ensure.HandleError(Int32 result) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Core\\Ensure.cs:line 160\r\n   at LibGit2Sharp.Repository.UpdatePhysicalIndex() in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 2026\r\n   at LibGit2Sharp.Repository.Stage(IEnumerable`1 paths, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1772\r\n   at LibGit2Sharp.Repository.Stage(String path, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1689\r\n   at LibGit2Sharp.RepositoryExtensions.Stage(IRepository repository, String path) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\RepositoryExtensions.cs:line 674\r\n   at Microsoft.OpenLocalization.Git.GitRepoExtensions.StageFile(GitRepo gitLocal, String filePath) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Git\\GitRepoExtensions.cs:line 368\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 250","extended_information":null}
 
-##### <a name='1484f03d1d80b73e3131095e3363b246929a0a3560handoff_transform_failed'></a> Source: [dsc\windowsfeatureResource.md](#1484f03d1d80b73e3131095e3363b246929a0a3560)
+##### <a name='1484f03d1d80b73e3131095e3363b246929a0a3557handoff_transform_failed'></a> Source: [dsc\windowsfeatureResource.md](#1484f03d1d80b73e3131095e3363b246929a0a3557)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: dsc\windowsfeatureResource.md transformed failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dsc\\windowsfeatureResource.md transformed failed.","internal_error_retriable":false,"exception_message":"The index is locked. This might be due to a concurrent or crashed process","exception_type":"LibGit2Sharp.LockedFileException","stack_trace":"   at LibGit2Sharp.Core.Ensure.HandleError(Int32 result) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Core\\Ensure.cs:line 160\r\n   at LibGit2Sharp.Repository.UpdatePhysicalIndex() in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 2026\r\n   at LibGit2Sharp.Repository.Stage(IEnumerable`1 paths, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1772\r\n   at LibGit2Sharp.Repository.Stage(String path, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1689\r\n   at LibGit2Sharp.RepositoryExtensions.Stage(IRepository repository, String path) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\RepositoryExtensions.cs:line 674\r\n   at Microsoft.OpenLocalization.Git.GitRepoExtensions.StageFile(GitRepo gitLocal, String filePath) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Git\\GitRepoExtensions.cs:line 368\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 250","extended_information":null}
 
-##### <a name='47c387c525a58a88f18e61920736a6e0e7f2098d61handoff_transform_failed'></a> Source: [dsc\windowsProcessResource.md](#47c387c525a58a88f18e61920736a6e0e7f2098d61)
+##### <a name='47c387c525a58a88f18e61920736a6e0e7f2098d58handoff_transform_failed'></a> Source: [dsc\windowsProcessResource.md](#47c387c525a58a88f18e61920736a6e0e7f2098d58)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: dsc\windowsProcessResource.md transformed failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: dsc\\windowsProcessResource.md transformed failed.","internal_error_retriable":false,"exception_message":"The index is locked. This might be due to a concurrent or crashed process","exception_type":"LibGit2Sharp.LockedFileException","stack_trace":"   at LibGit2Sharp.Core.Ensure.HandleError(Int32 result) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Core\\Ensure.cs:line 160\r\n   at LibGit2Sharp.Repository.UpdatePhysicalIndex() in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 2026\r\n   at LibGit2Sharp.Repository.Stage(IEnumerable`1 paths, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1772\r\n   at LibGit2Sharp.Repository.Stage(String path, StageOptions stageOptions) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\Repository.cs:line 1689\r\n   at LibGit2Sharp.RepositoryExtensions.Stage(IRepository repository, String path) in c:\\projects\\libgit2sharp\\LibGit2Sharp\\RepositoryExtensions.cs:line 674\r\n   at Microsoft.OpenLocalization.Git.GitRepoExtensions.StageFile(GitRepo gitLocal, String filePath) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Git\\GitRepoExtensions.cs:line 368\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetHandoffFiles(GitRepo sourceRepo, GitRepo targetRepo, GitRepo handoffRepo, TranslationState translationState, TranslationConfig config, Dictionary`2 filePathInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 250","extended_information":null}
 
-##### <a name='8c1262cca40e2a1f72254cf349d163ee2a4bcebe63handoff_transform_failed'></a> Source: [README.md](#8c1262cca40e2a1f72254cf349d163ee2a4bcebe63)
+##### <a name='8c1262cca40e2a1f72254cf349d163ee2a4bcebe60handoff_transform_failed'></a> Source: [README.md](#8c1262cca40e2a1f72254cf349d163ee2a4bcebe60)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: README.md transformed failed.
 * Retriable: False
